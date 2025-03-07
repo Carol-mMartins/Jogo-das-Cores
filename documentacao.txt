@@ -1,0 +1,15 @@
+# Jogo das Cores 🎨  
+Este é um jogo simples desenvolvido com **HTML, CSS e JavaScript**. O objetivo do jogo é trocar a cor com base no código RGB exibido na tela.
+
+## 🚀 Tecnologias utilizadas  
+- HTML5  
+- CSS3  
+- JavaScript  
+
+## 🎯 Como jogar  
+1. O jogo exibe um código RGB no topo da tela.  
+2. Você deve clicar na cor correspondente entre as opções disponíveis.  
+3. Se acertar, a tela muda para a cor correta e exibe uma mensagem de sucesso.  
+
+## 📂 Como executar o projeto  
+Para rodar o jogo, basta abrir o arquivo `index.html` em um navegador de sua escolha. 
